@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/diego/Documents/GitHub/corgiClassifier/corgiClass-0.0001--4_conv_layers_final"
+all_model_checkpoint_paths: "/Users/diego/Documents/GitHub/corgiClassifier/corgiClass-0.0001--4_conv_layers_final"
